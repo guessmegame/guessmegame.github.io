@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1479832444,
+	"version": 1480046852,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,13 +37,9 @@
 		"elle-futura-book.ttf",
 		"elle-futura-book.woff",
 		"font.css",
-		"itim.woff2",
-		"itim-latin.woff2",
-		"itim-latin-ext.woff2",
-		"itim-vn.woff2",
 		"0.json",
-		"1.json",
 		"2.json",
-		"3.json"
+		"3.json",
+		"1.json"
 	]
 }
